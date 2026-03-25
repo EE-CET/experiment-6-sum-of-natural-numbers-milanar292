@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class SumOfNaturalNumbers {
     public static int NumberSum(int n){
         return n*(n+1)/2;
